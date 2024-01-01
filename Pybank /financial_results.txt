@@ -1,0 +1,11 @@
+Total Months (86)
+Net Total ($22564198)
+Average Change ($-8311.105882352942)
+Greatest Increase in Profits ($Date                     Aug-16
+Profit/Losses            951227
+Profit/Loss Change    1862002.0
+Name: 79, dtype: object)
+Greatest Decrease in Profits ($Date                     Feb-14
+Profit/Losses           -946748
+Profit/Loss Change   -1825558.0
+Name: 49, dtype: object)

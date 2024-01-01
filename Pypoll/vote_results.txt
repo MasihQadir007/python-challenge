@@ -1,0 +1,13 @@
+total_votes (369711)
+List of candidates who received votes (['Charles Casper Stockham' 'Diana DeGette' 'Raymon Anthony Doane'])
+ Percentage of votes each candidate wone (Candidate
+Diana DeGette              73.812248
+Charles Casper Stockham    23.048543
+Raymon Anthony Doane        3.139209
+Name: proportion, dtype: float64%)
+Total number of votes each candidate won (Candidate
+Diana DeGette              272892
+Charles Casper Stockham     85213
+Raymon Anthony Doane        11606
+Name: count, dtype: int64)
+Winner of the election based on popular vote (Diana DeGette)
